@@ -1,0 +1,7 @@
+{
+  "name": "AgriShield – Crop Disease & Outbreak Detection",
+  "description": "AI-powered agricultural platform for early crop disease detection, weather-based risk analysis, and community outbreak tracking for farmers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
